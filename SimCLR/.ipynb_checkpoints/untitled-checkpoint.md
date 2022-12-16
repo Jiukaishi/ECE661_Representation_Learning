@@ -1,0 +1,1 @@
+1. Torch official implementation: ResNet16: BasicBlock ResNet32: Bottleneck
